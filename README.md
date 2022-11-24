@@ -11,6 +11,7 @@ Site published at: https://github.com/janis0316/2-serlokas
 -   Image
 -   Button
 -   Button hover animation
+-   Responsive design
 
 ## 🎅 Author
 
