@@ -1,0 +1,30 @@
+@media (max-width: 1100px) {
+    main {
+        width: 800px;
+    }
+}
+@media (max-width: 900px) {
+    main {
+        width: 700px;
+    }
+    .img {
+        width: 50%;
+    }
+}
+@media (max-width: 700px) {
+    main {
+        width: 90%;
+    }
+}
+@media (max-width: 460px) {
+    main {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .img {
+        width: 100%;
+    }
+    .text {
+        width: 100%;
+    }
+}
