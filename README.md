@@ -6,7 +6,7 @@ _Simple design project_
 
 Site published at: https://github.com/janis0316/2-serlokas
 
-Design: [Sherlock] (https://miro.medium.com/max/1100/1*-i5m47JMGAhGVIdQPThnDQ.webp)
+Design: [Sherlock](https://miro.medium.com/max/1100/1*-i5m47JMGAhGVIdQPThnDQ.webp)
 
 ## 🎯 Project features/goals
 
